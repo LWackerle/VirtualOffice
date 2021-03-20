@@ -919,12 +919,30 @@
          "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":385,
-         "source":"Floors_only_32x32.tsx"
+         "image":"..\/..\/..\/..\/..\/..\/..\/Projects\/Telekom\/Learning Company\/Modern_Interiors\/1_Interiors\/32x32\/Old_Stuff\/Floors_only_32x32.png",
+         "imageheight":576,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Floors_only_32x32",
+         "spacing":0,
+         "tilecount":288,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":15,
          "firstgid":673,
-         "source":"Room_Builder_Floors_32x32.tsx"
+         "image":"..\/..\/..\/..\/..\/..\/..\/Projects\/Telekom\/Learning Company\/Modern_Interiors\/1_Interiors\/32x32\/Room_Bulder_subfiles_32x32\/Room_Builder_Floors_32x32.png",
+         "imageheight":1280,
+         "imagewidth":480,
+         "margin":0,
+         "name":"Room_Builder_Floors_32x32",
+         "spacing":0,
+         "tilecount":600,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":19,
@@ -1517,16 +1535,69 @@
          "tilewidth":32
         }, 
         {
+         "columns":1,
          "firstgid":2128,
-         "source":"water_waves_32x32.tsx"
+         "image":"..\/SERENE_VILLAGE_REVAMPED\/Animated stuff\/water_waves_32x32.gif",
+         "imageheight":32,
+         "imagewidth":32,
+         "margin":0,
+         "name":"water_waves_32x32",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":59,
          "firstgid":2129,
-         "source":"Room_Builder_32x32.tsx"
+         "image":"..\/..\/..\/..\/..\/..\/..\/Projects\/Telekom\/Learning Company\/Modern_Interiors\/1_Interiors\/32x32\/Room_Builder_32x32.png",
+         "imageheight":1952,
+         "imagewidth":1888,
+         "margin":0,
+         "name":"Room_Builder_32x32",
+         "spacing":0,
+         "tilecount":3599,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":5728,
-         "source":"Interiors_32x32.tsx"
+         "image":"..\/..\/..\/..\/..\/..\/..\/Projects\/Telekom\/Learning Company\/Modern_Interiors\/1_Interiors\/32x32\/Interiors_32x32.png",
+         "imageheight":19168,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Interiors_32x32",
+         "spacing":0,
+         "tilecount":9584,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":15312,
+         "image":"..\/..\/..\/..\/..\/..\/..\/Projects\/Telekom\/Learning Company\/Modern_Interiors\/1_Interiors\/32x32\/Theme_Sorter_32x32\/13_Conference_Hall_32x32.png",
+         "imageheight":384,
+         "imagewidth":512,
+         "margin":0,
+         "name":"13_Conference_Hall_32x32",
+         "spacing":0,
+         "tilecount":192,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":42,
+         "firstgid":15504,
+         "image":"..\/..\/..\/..\/..\/..\/..\/Projects\/Telekom\/Learning Company\/Modern_Interiors\/1_Interiors\/32x32\/Room_Bulder_subfiles_32x32\/Room_Builder_Floor_Paths_32x32.png",
+         "imageheight":384,
+         "imagewidth":1344,
+         "margin":0,
+         "name":"Room_Builder_Floor_Paths_32x32",
+         "spacing":0,
+         "tilecount":504,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
